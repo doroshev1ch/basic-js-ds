@@ -170,6 +170,6 @@ const { NotImplementedError } = require('../extensions/index.js');
 // console.log(tree.max()); 
 // console.log(tree.min()); 
 
-module.exports = {
-  BinarySearchTree
-};
+// module.exports = {
+//   BinarySearchTree
+// };
